@@ -12,7 +12,7 @@ Sort campgrounds by highest rating, most reviewed, lowest price, or highest pric
 Run it locally
 Install mongodb
 Create a cloudinary account to get an API key and secret code
-git clone https://github.com/leovenom/MetaCamp.git
+
 cd MetaCamp
 npm install
 Built With
