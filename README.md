@@ -11,11 +11,11 @@ Search campground by name or location
 Sort campgrounds by highest rating, most reviewed, lowest price, or highest price
 
 
-Node.js - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-express - Fast, unopinionated, minimalist web framework for Node.js
-MongoDB - The database for modern applications
-Mongoose - Elegant MongoDB object modeling for Node.js
-ejs - Embedded JavaScript templating
-Create a .env file (or just export manually in the terminal) in the root of the project and add the following:
+Node.js - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.<br/>
+express - Fast, unopinionated, minimalist web framework for Node.js<br/>
+MongoDB - The database for modern applications<br/>
+Mongoose - Elegant MongoDB object modeling for Node.js<br/>
+ejs - Embedded JavaScript templating<br/>
+
 
 
