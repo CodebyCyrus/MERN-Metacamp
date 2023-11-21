@@ -1,7 +1,7 @@
 {
-  "name": "yelpcamp",
+  "name": "MetaCamp",
   "version": "1.0.0",
-  "description": "",
+  "description": "MetaCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
